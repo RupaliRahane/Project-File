@@ -2,7 +2,7 @@
     Regression Analysis on weather Forecast
 # Aim:
     Linear Regression is a machine learning algorithm used for the prediction of parameter which is in continuous nature .
-    In regression analysis on weather forecast ,linear regression has been used for forecasting the minimum and maximum temp and wind speed
+    In regression analysis on weather Forecast project ,linear regression has been used for forecasting the minimum and maximum temp and wind speed
 
 
  # Objective of the project:
