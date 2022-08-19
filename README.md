@@ -1,12 +1,12 @@
 # Project-File
     Regression Analysis on weather Forecast
 # Aim:
-    The goal of Regression Analysis on Weather Forecast is used for forecasting the minimum and maximum temp and wind speed
+    Linear Regression is a machine learning algorithm used for the prediction of parameter which is in continuous nature .
+    In regression analysis on weather forecast ,linear regression has been used for forecasting the minimum and maximum temp and wind speed
 
 
  # Objective of the project:
-    In order to find the relationship among variables(here maximum temp rainfall and minimum temp,tec.)
-    In order to estimate the values of some attributes so that new observations are entertained
+    In objective of regreszion analysis on weather Forecast is to find relationship between DewPointAvgF & HumidityAvgPercent
 
 
 # Methodology:
@@ -25,6 +25,4 @@
  
  
 # Conclusion:
-     The Most Scientific and technical challenging prbl around the worlds is forecasting the weather.weather prediction relies on two correct things :
-     1) First the collection of the data from the meteorological department 
-     2) The major cocerns of weather prediction are the accuracy of the model and timely output.
+     The linear regression model is capable for weather forecasting
